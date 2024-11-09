@@ -6,3 +6,4 @@ A research assistant tool powered by LangGraph, inspired by hands-on learning fr
 -   Initialize poetry with `poetry init -n`
 -   Run `poetry config virtualenvs.in-project true` so that virtualenv will be present in project directory
 -   Run `poetry env use [C:\Users\username\AppData\Local\Programs\Python\Python310\python.exe]` to create virtualenv in project
+-   Run `poetry shell`
