@@ -19,8 +19,8 @@ load_dotenv(find_dotenv(), override=True)
 
 # Global variables
 OUTPUT_JSON_FILE = 'arxiv_papers.json'
-DATA_FOLDER = '../data'
-PDF_FOLDER = '../data/pdfs/'
+DATA_FOLDER = '../../data'
+PDF_FOLDER = '../../data/pdfs/'
 OUTPUT_JSON_FILEPATH = os.path.join(DATA_FOLDER, OUTPUT_JSON_FILE)
 DF_PDF_CSV_FILE = "arxiv_papers_with_pdfs.csv"
 DF_PDF_CSV_FILEPATH = os.path.join(PDF_FOLDER, DF_PDF_CSV_FILE)
