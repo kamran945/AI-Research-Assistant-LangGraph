@@ -5,7 +5,7 @@ A research assistant tool powered by LangGraph, inspired by hands-on learning fr
 -   This project is a powerful Research Assistant and Knowledge Retrieval System designed to facilitate deep research and answer complex queries across various fields. 
 -   By leveraging a combination of **Hugging Face Hub embeddings**, **Pinecone** as a vector database, **GROQ chat model** as the LLM, **Tavily for web search**, and **retrieval-augmented generation (RAG)** techniques, the system allows for nuanced search capabilities. 
 -   Users can extract information from an expansive knowledge base and specialized sources such as ArXiv for academic papers, making it ideal for researchers and knowledge workers.
--   **Stramlit** has been used for graphical user interface.
+-   **Streamlit** has been used for graphical user interface.
 
 ## How to use:
 -   Initialize poetry with `poetry init -n`
